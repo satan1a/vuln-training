@@ -7,7 +7,7 @@
 
 ## 仿真训练
 
-VulHub提供了各种仿真漏洞测试环境，类似的有[VulnStack](http://vulnstack.qiyuanxuetang.net/vuln/)（国内，红日安全维护），OSCP Lab（OSCP认证配套的实验靶机）
+VulnHub提供了各种仿真漏洞测试环境，类似的有[VulnStack](http://vulnstack.qiyuanxuetang.net/vuln/)（国内，红日安全维护），OSCP Lab（OSCP认证配套的实验靶机）
 
 > Vulnhub是一个提供各种漏洞环境的靶场平台，供安全爱好者学习渗透使用，大部分环境是做好的虚拟机镜像文件，镜像预先设计了多种漏洞，需要使用VMware或者VirtualBox运行。 每个镜像会有破解的目标，大多是Boot2root，从启动虚机到获取操作系统的root权限和查看flag。
 >
@@ -17,7 +17,7 @@ VulHub提供了各种仿真漏洞测试环境，类似的有[VulnStack](http://v
 
 ## 漏洞复现
 
-相较于VulnHub提供的仿真渗透测试环境，VulHub和VulApps适用于单个漏洞的复现和研究
+相较于VulnHub提供的仿真渗透测试环境，VulHub（注意一字之差）和VulApps适用于单个漏洞的复现和研究
 
 > Vulhub是一个基于docker和docker-compose的漏洞环境集合，进入对应目录并执行一条语句即可启动一个全新的漏洞环境，让漏洞复现变得更加简单，让安全研究者更加专注于漏洞原理本身。
 >
