@@ -1,6 +1,8 @@
 # elasticsearch-cve_2014_3120
 
-今天练习一个古老的CVE，关于分布式检索与分析引擎ElasticSearch，也是我这段时间朝夕相处的ELK组件之一。
+今天练习一个“古老”的CVE，关于分布式检索与分析引擎ElasticSearch，也是我这段时间朝夕相处的ELK组件之一。
+
+
 
 ## 前置知识
 
