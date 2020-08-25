@@ -1,3 +1,6 @@
+---
+title: Index
+---
 # Vuln Training
 
 一些漏洞分析的练习笔记～
