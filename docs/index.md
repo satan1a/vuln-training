@@ -3,7 +3,7 @@ title: Index
 ---
 # Vuln Training
 
-一些漏洞分析的练习笔记～
+一些漏洞分析和靶机练习的笔记～
 
 
 
