@@ -11,5 +11,4 @@
 
 
 
-## 文档链接：https://y1ng.org/vuln-training/
-
+## 文档链接：https://vuln.y1ng.org
